@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GiacomoBorsellino/domoticApp">
-    <img src="https://github.com/GiacomoBorsellino/pokedex/blob/main/images/pokedex-logo.png" alt="Logo" width="200">
+    <img src="https://raw.githubusercontent.com/GiacomoBorsellino/domoticApp/main/FE/src/assets/logotipo.png" alt="Logo" width="300">
   </a>
 
   <h3 align="center">DomoticApp</h3>
