@@ -7,7 +7,7 @@
   <h3 align="center">DomoticApp</h3>
 
   <p align="center">
-    Applicazione per la domotica della casa
+    Applicazione per la domotica della casa powered by Enrico Pisciotta e Giacomo Borsellino
   </p>
 </p>
 
